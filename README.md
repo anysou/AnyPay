@@ -8,7 +8,9 @@
 
 **技术要点**
 
-1、AndroidManifest.xml -> application -> android:name=".MainApplication"
+1、TLog 日志工具 记录 收款信息。
+2、LiveEventBus 消息总线框架。
+3、
 
 **流程**
 
