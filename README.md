@@ -17,3 +17,7 @@
 1、AndroidManifest.xml -> application -> android:name=".MainApplication"
   
   设置全局变量、全局方法、启动监测服务、初始化TLog(日志工具)、设置LiveEventBus(消息总线框架)
+  
+2、Android 9.0 http 网络请求的问题解决： AndroidManifest.xml -> application -> android:networkSecurityConfig="@xml/network_security_config"
+
+3、
